@@ -56,6 +56,30 @@ The AI-Powered Web Search and PDF Question-Answering System is an innovative sol
 - Trafilatura
 - Other dependencies listed in `requirements.txt`
 
+Install Dependencies:
+
+# bash
+```
+pip install -r requirements.txt
+```
+
+# Run the Application:
+
+# To run the AI Assistant with Web Search:
+bash
+```
+streamlit run app.py
+```
+# To run the PDF Question-Answering System:
+bash
+```
+streamlit run Deep_rag_pdf.py
+```
+# To use the Application Launcher:
+bash
+```
+streamlit run app2.py
+```
 ### Setup
 
 1. **Clone the Repository:**
