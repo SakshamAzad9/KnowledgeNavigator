@@ -1,6 +1,6 @@
 # KnowledgeNavigator
 AI-Powered Web Search and PDF Question-Answering System with RAG Integration
-# AI-Powered Web Search and PDF Question-Answering System\
+# AI-Powered Web Search and PDF Question-Answering System
 <p align="center">
  <img src="KNRAG.png" alt="Knowledge Navigator RAG System" width="600"/>
 </p>
@@ -45,6 +45,9 @@ The AI-Powered Web Search and PDF Question-Answering System is an innovative sol
 ### User Interface
 
 - **Streamlit:** Provides an interactive web interface for users to engage with the AI applications.
+<p align="center">
+ <img src="Untitled (1)-2.png" alt="Knowledge Navigator RAG System" width="1000"/>
+</p>
 
 ## Installation
 
