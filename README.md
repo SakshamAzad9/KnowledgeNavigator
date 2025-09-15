@@ -1,7 +1,9 @@
 # KnowledgeNavigator
 AI-Powered Web Search and PDF Question-Answering System with RAG Integration
-# AI-Powered Web Search and PDF Question-Answering System
-
+# AI-Powered Web Search and PDF Question-Answering System\
+<p align="center">
+ <img src="KNRAG.png" alt="Knowledge Navigator RAG System" width="600"/>
+</p>
 ## Overview
 
 The AI-Powered Web Search and PDF Question-Answering System is an innovative solution designed to enhance user interactions with digital information. This project integrates advanced AI models to provide intelligent and contextually relevant responses to user queries. The system is built using Streamlit for the user interface, ensuring an interactive and user-friendly experience.
